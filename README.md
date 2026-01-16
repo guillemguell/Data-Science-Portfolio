@@ -17,11 +17,16 @@ Using the scraped Devil Fruit data, I also created a virtual and interactive [de
 *Private for the moment*  
 Collecting movie data from IMDb — scraping rankings, metadata, and other relevant information to build a structured dataset for analysis.
 
+
+### [Movie data analysis](https://github.com/guillemguell/movie-data-analysis)
+*Private for the moment*  
+Cleaning and analysing data from the IMDb movie datasets obtained through web scraping
 ---
 
 ## 🚀 About This Portfolio
 This repository serves as an index for all my data science projects.  
 Future additions will include topics such as:
+- ETL / ELT pipelines and data integration workflows
 - Data cleaning and preprocessing  
 - Exploratory data analysis (EDA)  
 - Predictive modeling and machine learning  
