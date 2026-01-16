@@ -21,6 +21,7 @@ Collecting movie data from IMDb — scraping rankings, metadata, and other relev
 ### [Movie data analysis](https://github.com/guillemguell/movie-data-analysis)
 *Private for the moment*  
 Cleaning and analysing data from the IMDb movie datasets obtained through web scraping
+
 ---
 
 ## 🚀 About This Portfolio
